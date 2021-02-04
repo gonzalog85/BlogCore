@@ -33,7 +33,7 @@ function cargarDatatable() {
             }
         ],
         "language": {
-            "emptyTable": "No hay registros"
+            "url":"//cdn.datatables.net/plug-ins/1.10.22/i18n/Spanish.json"
         },
         "width": "100%"
     });
